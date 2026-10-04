@@ -8,8 +8,13 @@ Tailwind: flex flex-col
 설명: 카드 안의 프로필·태그·버튼 영역을 세로로 배치
 
 Figma: Horizontal Auto Layout
-Tailwind: flex items-center
-설명: 프로필 원과 이름을 가로로 배치하고 세로 중앙 정렬
+Tailwind: flex (flex-row)
+설명: 프로필 원과 이름을 가로로 배치
+
+Figma: Alignment 세로 중앙
+Tailwind: items-center
+설명: 가로로 배치된 프로필 원과 이름을 세로 기준 중앙 정렬
+
 
 Figma: Wrap
 Tailwind: flex flex-wrap
